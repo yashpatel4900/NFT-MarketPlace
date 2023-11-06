@@ -1,3 +1,9 @@
+## NFT Marketplace
+
+Video Demo - https://drive.google.com/file/d/1fchsYnQ014FaOwn4qK7Kn03_BFrF4ule/view?usp=share_link
+Auction Functionality - https://drive.google.com/file/d/10Ofosp9zNRb5mQ3jGVdJL3iekksPHtPR/view?usp=share_link
+
+![Design](https://github.com/yashpatel4900/NFT-MarketPlace/assets/62371168/fa3457cb-f9bb-4b2d-a625-2b981463ce17)
 
 ```
 ## Full stack NFT marketplace built with Polygon, Solidity, IPFS, & Next.js
